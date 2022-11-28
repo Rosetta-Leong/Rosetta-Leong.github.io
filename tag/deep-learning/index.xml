@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Rosetta&#39;s Page</title>
-    <link>https://rosetta-leong.github.io/tag/deep-learning/</link>
-      <atom:link href="https://rosetta-leong.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Deep Learning | Yanzhe Liang&#39;s Page</title>
+    <link>https://yanzheliang.netlify.app/tag/deep-learning/</link>
+      <atom:link href="https://yanzheliang.netlify.app/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rosetta-leong.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yanzheliang.netlify.app/media/icon_hu6ba42fdc46a4832ec5cf9780eb73c5c8_28245_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://rosetta-leong.github.io/tag/deep-learning/</link>
+      <link>https://yanzheliang.netlify.app/tag/deep-learning/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://rosetta-leong.github.io/project/example/</link>
+      <title>Intelligent garbage sorting robot</title>
+      <link>https://yanzheliang.netlify.app/project/yolo-tx2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rosetta-leong.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://yanzheliang.netlify.app/project/yolo-tx2/</guid>
+      <description>&lt;p&gt;We designed the optoelectronic intelligent garbage sorting vehicle, a four-wheeled omnidirectional motion system based on STM32 microcontroller control with a large field of view. It is equipped with a high-performance vision computing platform that uses deep learning to differentiate between garbage types and traditional vision to identify the location of garbage and the location of the stacking area. The vehicle is equipped with a simple and stable garbage capture device, which captures garbage by snapping it, takes it away by pushing it and puts it in the dumping area, and sorts five types of garbage into four different areas. A variety of high-precision sensors such as gyroscopes, encoders, laser distance measurement, and color sensors are used to assist the robot in its fully autonomous, accurate, and efficient trash identification, picking, sorting, and placement functions.&lt;/p&gt;
+&lt;p&gt;In this project, I was mainly responsible for the garbage recognition and classification part, i.e., the real-time deployment of the object detection algorithm on the embedded edge computing platform. By accelerating the YOLOv5 object detection algorithm with TensorRT, we finally achieved a balance of frame rate and accuracy on the hardware platform, which provided a reliable guarantee for the competition win. During this competition, I was responsible for all five algorithm deployment processes: dataset annotation, server environment setup, model training, deployment side environment setup, and model deployment and integration. During the process, I experienced the complexity and challenge of implementing the model, and the excellent performance of the algorithm eventually increased my interest and curiosity in the ever-changing field of deep learning, and ignited my desire to continue exploring in this field in graduate school.&lt;/p&gt;
+&lt;p&gt;This project won the first prize of the national university students’ opt-sci-tech Competition.&lt;/p&gt;
 </description>
     </item>
     
